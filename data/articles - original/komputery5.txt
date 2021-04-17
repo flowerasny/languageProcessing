@@ -1,0 +1,37 @@
+Nie tak dawno temu, gdyż w zeszłym tygodniu, mieliśmy świętować 25 lat istnienia Internet Explorera, 
+lecz Microsoft zamiast tortu urodzinowego wystawił przeglądarce nekrolog. 
+Stało się – firma ogłosiła “śmierć” ćwierćwiecznego towarzysza każdego świeżo zainstalowanego Windowsa. 
+W przyszłym roku zostanie zakończone jego wsparcie.
+
+Pierwsza wersja Internet Explorera została wydana 16 sierpnia 1995 roku dla Windowsa 95. 
+Trafił tam w ramach pakietu Microsoft Plus! i choć nie był pierwszą przeglądarką, ponieważ konkurował z Netscapem, 
+to w błyskawicznym tempie zmonopolizował rynek. Za sprawą tego, że był dodawany do każdego Windowsa, 
+już w 2003 roku Internet Explorer był zainstalowany już na 95% komputerach z dostępem do internetu. 
+
+Szczęśliwa passa minęła jednak około roku 2012, kiedy na rzecz innych przeglądarek stracił pozycję lidera. 
+Od tamtego czasu można zauważyć tylko tendencję spadkową popularności programu do tego stopnia, że w 2015 Microsoft ogłosił, 
+że domyślną przeglądarką internetową w Windows 10 będzie Microsoft Edge, a Internet Explorer nie będzie dalej rozwijany.
+
+Microsoft kończy wsparcie dla Internet Explorera
+W opublikowanym przez Microsoft komunikacie na blogu można przeczytać, 
+że firma definitywnie kończy wsparcie dla Internet Explorera. Proces wycofania ma potrwać do 17 sierpnia 2021 roku i będzie realizowany stopniowo.
+
+W praktyce oznacza to, że po wymienionych wyżej datach użytkownicy Internet Explorera będą mieli ograniczony dostęp do niektórych nowych funkcji, 
+a nawet stracą możliwość połączenia się z pakietem Microsoft 365 czy MS Teams. Jak podkreśla firma – Zdajemy sobie sprawę, 
+że ta zmiana będzie trudna dla niektórych klientów, ale uważamy, że najwięcej korzyści z użytkowania Microsoft 365 dostaną, 
+korzystając z Microsoft Edge. Zależy nam na tym, aby to przejście było tak płynne, jak jest to tylko możliwe.
+
+Jaką alternatywę oferuje Microsoft?
+Nie jest tajemnicą, że Internet Explorer odchodzi do lamusa i ma być zastąpiony przez młodszą siostrę – Microsoft Edge. 
+Do pierwszej przeglądarki już dawno przylgnęła łatka zbuggowanej i powolnej aplikacji. 
+Z pewnością pozytywnie na jej wizerunek nie wpływa słynna afera antymonopolowa, jaka rozegrała się przed laty, 
+która dodatkowo ujawniła nieetyczne praktyki biznesowe firmy. Co zamiast niej oferuje Microsoft?
+
+I chociaż Edge od momentu wyjścia na świat nie wyróżniał się tle konkurencji – owszem, 
+była szybsza, bardziej energooszczędna czy chociażby bezpieczniejsza, ale nadal posiadała spore braki – to zdaje się, 
+że powoli wchodzi na wyższy bieg. Od momentu styczniowej aktualizacji, przeglądarka bazuje na zupełnie innym silniku renderującym, 
+tym samym porzucając swój autorski silnik EdgeHTML. Microsoft postawiło na Chromium, czyli otwartoźródłową przeglądarkę, 
+z którego kod źródłowy czerpią między innymi Google Chrome, Opera, Vivaldi, SlimJet i Brave. 
+
+Nowa wersja Edge odziedziczyła po swojej poprzedniczce wszystkie jej zalety jak szybkość i dobrą integrację z Windowsem 10, 
+tym samym pozwalając użytkownikom na to, by sami ją rozwijali. Pytanie tylko, czy to wystarczy, aby ich do siebie przekonać?

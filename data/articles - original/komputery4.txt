@@ -1,0 +1,50 @@
+W zeszłym tygodniu, za pośrednictwem 4chana użytkownik o nicku “billgates3” opublikował kod źródłowy Microsoft Windows XP, 
+co ujawniło nieznane dotychczas informacje na temat systemu operacyjnego. Plik torrent waży 42,9 GB 
+i można znaleźć w nim, chociażby ukryty motyw, łudząco przypominający ówczesny interfejs stosowany w tamtym czasie przez Apple.
+
+Torrent rzekomo ma zawierać kod źródłowy systemu Windows XP i Windows Server 2003, ale także:
+
+MS DOS 3.30.0
+MS DOS 6.0
+Windows 2000
+Windows CE 3
+Windows CE 4
+Windows CE 5
+Windows Embedded 7
+Windows Embedded CE
+Windows NT 3.5
+Windows NT 4
+Gratka na “rynku wtórnym” czy niebezpieczeństwo?
+Windows XP niewątpliwie uchodzi za najpopularniejszy produkt Microsoftu i to nie tylko dlatego, 
+że wychowało się na niej całe pokolenie millenialsów. Swojej premiery doczekał w 2001 roku i przewiduje się, że do dzisiaj służy 1% populacji. 
+Już fakt, że otrzymywał wsparcie aż do 2014 roku, służy za potwierdzenie jego popularności.
+
+Od tamtego czasu nie dodano do niego żadnych krytycznych aktualizacji zabezpieczeń, ani nie zwiększono kompatybilności z nowoczesnym sprzętem. 
+I o ile można by pomyśleć, że przestarzały system stanowi doskonałe pole do manewru dla wszelkiej maści hakerów, o tyle też, 
+może być to przesłanka ku temu, że jego użytkownicy mogą czuć się w nim bezpiecznie. Ostatecznie – mało prawdopodobne jest, 
+żeby hakerzy chcieli zainwestować swój czas w łamanie zabezpieczeń systemu, z którego korzysta tak niewielu. 
+Chociaż nadal trzeba mieć na uwadze komputery w przestrzeni publicznej – elektroniczne billboardy czy mapy w centrach handlowych nadal z niego korzystają. 
+
+Mniej bezpiecznie mogą czuć się użytkownicy nowszych systemów operacyjnych, które wyewoluowały z Windowsa XP. 
+Możliwość przejrzenia jego wnętrza, stanowi okazję do znalezienia wskazówek, dotyczących mechanizmów działających aktualnie. 
+
+Szczęśliwie, za tymi wydarzeniami może kryć się jasna strona medalu. Jak zauważył Krzysztof Rojek z portalu Antyweb, 
+“przywłaszczenie” sobie kodu źródłowego do Windows XP przez społeczność, może doprowadzić do ulepszenia systemu i 
+dostosowania go do dzisiejszych czasów pod względem bezpieczeństwa i używalności. 
+
+Sprawca wycieku napisał, że pliki te przez lata przechodziły z rąk do rąk, aby teraz w końcu stały się publiczne. – 
+Stworzyłem tego torrenta dla społeczności, ponieważ uważam, że takie informacje powinny być bezpłatne i dostępne dla wszystkich. 
+Gromadzenie ich dla siebie i utrzymywanie w tajemnicy byłoby moim zdaniem złe – motywuje swoją decyzję.
+
+Póki co, Microsoft do tych wydarzeń odniósł się krótkim: “Badamy sprawę”. 
+
+Co jeszcze kryje przed nami Windows XP?
+Już teraz na światło dzienne wychodzi kilka ciekawych informacji, które programiści wyciągają z udostępnionego kodu. 
+Jedną z nich jest ukryty motyw, który wyglądem łudząco przypomina interfejs stosowany w tamtym czasie przez Apple. 
+
+Motyw nazwany został Candy i wykorzystał kilka elementów z interfejsu Aqua, 
+prezentowanego przez Apple na Macworld Conference & Expo w 2000 roku.
+
+Ostatecznie rozwiązanie to nie doczekało wypuszczenia na światło dzienne. 
+Zostało oznaczone jako “do użytku wewnętrznego”. Co ciekawe, motywowi towarzyszy poetycki opis: “Skórka Świstaka ze słodyczą dla oczu”, 
+gdzie Świstak (ang. Whistler) to nazwa kodowa Windows XP.

@@ -1,0 +1,62 @@
+Parafrazując klasyka: minęło jak jeden dzień! Python pierwszy raz światło dzienne ujrzał w 1991 roku. 
+Guido van Rossum zaczął pracę nad nim z myślą, że jego dzieło stanowić będzie następcę rozwijanego w latach 80-tych języka ABC. 
+Mimo upływających lat Python przez wielu uznawany jest za jeden z najpopularniejszych (o ile nie najpopularniejszy) język programowania na świecie. 
+Zresztą, nie bez powodu. Przedstawiamy historię Pythona.
+
+Abstrahując od samego faktu, że 30 lat temu Python nie miał zbyt wielu konkurentów, 
+to jest stosunkowo prostym językiem do nauczenia. Wielu śmiałków podejmuje się nawet tego wyzwania na własną rękę, 
+ponieważ ma on niski próg wejścia. Nawet na stronie python.org możemy znaleźć zakładkę Getting Started, 
+w którym krok po kroku prowadzeni jesteśmy przez podstawowe zagadnienia. Ale…
+
+Od czego się zaczęło? Historia Pythona 
+Głównym bohaterem tej historii jest oczywiście Guido van Rossum, który z racji swojej pozycji nazywany jest nawet “Benevolent Dictator for Life”, 
+co można tłumaczyć jako: dobrotliwy, dożywotni dyktator. Jest to nieformalny tytuł, którym może cieszyć się osoba szczególnie zaangażowana 
+w ruch open-source z zasługami na swoim koncie. Mimo tego nie można zapomnieć, że w cały projekt, od samego początku było zaangażowanych sporo innych osób. 
+
+Sama nazwa, jak mogłoby się zdawać, nie pochodzi od węża, ale od popularnego serialu komediowego emitowanego na 
+łamach BBC w latach siedemdziesiątych – “Latający Cyrk Monty Pythona”. Van Rossum był ogromnym fanem tej produkcji i uznał, 
+że jego język musi mieć krótką, unikalną i lekko tajemniczą nazwę, stąd taka decyzja. Jak jednak żartobliwie podkreślono, 
+nie trzeba lubić brytyjskiego humoru, aby polubić Pythona. 
+
+Żółto-niebieskie barwy 
+I chociaż powszechnie znana jest geneza tej nazwy, węże stały się niejako symbolem języka, a dla niektórych – nawet maskotką. 
+Dla przykładu programowaniem tylko w tym języku zajmuje się Ulam Labs – software house z Wrocławia, w związku z czym wyszli z nietypowym hołdem dla “wężoustych”. 
+
+– Któregoś dnia będąc z rodziną we wrocławskim ZOO, mój mąż zwrócił uwagę, że w niektórych miejscach są tabliczki o opiece firm nad zwierzętami. 
+I wtedy padł pomysł. A skoro programujemy w Pythonie, to nie było innej opcji jak tylko adopcja pytonów – powiedziała Barbara Trybulińska z Ulam Labs. 
+I rzeczywiście, stali się dumnymi “posiadaczami” tych pięknych gadów. Mieliśmy przyjemność porozmawiać z Barbarą, 
+jak i przedstawicielką wrocławskiego ZOO o tej akcji. Więcej o tym, możecie przeczytać tutaj.
+
+Węże zobaczymy również w logo Pythona, pod postacią dwóch splatających się nawzajem gadów – jeden w kolorze żółtym, 
+drugi w niebieskim. Chociaż poznaliśmy je dopiero w 2006 roku, gdyż wcześniej, logo prezentowało się zupełnie inaczej. Bardziej retro.
+
+Pierwsze wersje i BeOpen
+Swój żywot Python rozpoczął w wersji 0.9.0 w lutym 1991 roku. 
+Już wówczas obsługiwał wyjątki, funkcje i typy danych podstawowych, ale posiadał także mechanizm współdzielenia funkcjonalności między klasami itd. 
+Od tego momentu język ruszył w rozwoju z kopyta. 
+
+Wersja 1.0 ostatecznie wyszła w styczniu 1994 roku. Również w tym roku powstał comp.lang.python, 
+główne forum dyskusyjne społeczności, co uznawane jest za kamień milowy w rozwoju bazy użytkowników Pythona. 
+Wersja Python 1.2 była ostatnią wydaną przez CWI (Centum Matematyki i Informatyki w Amsterdamie). 
+Od 1995 roku twórca języka kontynuował pracę nad Pythonem w Corporation for National Research Initiatives (CNRI).
+
+Powstało tam kilka wersji Pythona, do 1.6 włącznie. I to od niej zaczęły się naciski użytkowników na taką wersję języka, 
+którą można by było używać z oprogramowaniem na licencji BPL. Tak powstała wersja 1.6.1, która opierała się na kilku drobnych poprawkach, 
+oraz licencji, dzięki której późniejsze wersje języka mogły być zgodne z pożądaną licencją.
+
+W 2000 roku zespół van Rossuma przeniósł się do BeOpen.com, gdzie powstał BeOpen PythonLabs. 
+Z jego ramienia wydany został Python 2.0, jednak krótko po tym Guido wraz ze swoimi ludźmi przeszli do Digital Creations. 
+Dopiero wtedy, po wydaniu wersji 2.1 wszystko się ustatkowało. Cała własność intelektualna projektu dodana od tego momentu 
+jest własnością Python Software Foundation (PSF).
+
+Filozofia Pythona
+Warto przytoczyć podstawową filozofię języka. Została spisana przez wieloletniego pythonowca 
+Tima Petersa w dokumencie The Zen of Python, z którego możemy wyczytać m.in.:
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+I rzeczywiście zawarte jest w tym sporo prawdy. Python z założenia miał być zwięzły i prosty. 
+Większość kodu łatwo jest zrozumieć nawet kompletnym amatorom, którzy choć trochę znają język angielski. 
+Można go odpalić prawie wszędzie, jeśli tylko dysponuje się odpowiednimi zasobami sprzętowymi. 

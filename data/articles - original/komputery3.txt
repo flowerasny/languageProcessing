@@ -1,0 +1,58 @@
+Po feralnej decyzji WhatsAppa o wystawieniu swoim użytkownikom ultimatum: albo przyjmujecie nasz regulamin, albo nie korzystajcie z aplikacji, 
+wielu internautów zaczęło masową migrację na inne, bezpieczniejsze komunikatory. Ale to nie jedyna dobra wiadomość z zakresu prywatności. 
+
+DuckDuckGo, dbająca o bezpieczeństwo wyszukiwarka internetowa pochwaliła się, że z roku na rok rośnie jej popularność, 
+a w 2020 udało im się nawet przebić barierę 100 milionów wyszukiwań na dobę.
+
+Bezpieczeństwo w sieci nowym trendem?
+– Jesteśmy jedną z firm należących do Facebooka. Jako jedna z firm należących do Facebooka, 
+WhatsApp otrzymuje informacje od innych firm do niego należących oraz udostępnia im informacje – 
+mogliśmy wyczytać w komunikacie dotyczącym zmiany polityki prywatności w WhatsApp. 
+
+I choć na pierwszy rzut oka nie brzmi to groźnie, to w rzeczywistości dla firmy skończyło się fatalnie. 
+Dotychczas, mimo że WhatsApp należy do Facebooka, aplikacja dawała użytkownikom wybór: mogli zdecydować, 
+czy ich dane trafią do firmy matki, czy nie. Jednak wraz ze zmianami, które w życie wejdą 15 maja (pierwotnie miały wejść 8 lutego), 
+WhatsApp zastrzega sobie prawo do udostępniania danych swoich użytkowników całej rodzinie firmy Zuckerberga. 
+Reakcja internautów nie mogła być inna. Zaczęli masowo migrować na inne platformy.
+
+– Być może jesteśmy świadkami największej cyfrowej migracji w historii ludzkości – napisał CEO Telegrama, 
+jednego z bezpieczniejszych komunikatorów w sieci. Pochwalił się także, że do Telegrama dołączyli także światowi dowódcy, 
+jak prezydent Brazylii i Turcji. Wcześniej korzystali z niego przedstawiciele władz kilku innych państw m.in.: Etiopii, 
+Francji, Izraela, Meksyku, Singapuru, Tajwanu, Ukrainy i Uzbekistanu. Ponadto, krótko po zmianach w 
+WhatsAppie komunikator przekroczył 500 milionów aktywnych użytkowników. 
+
+Signal notuje imponujący wzrost popularności
+Jednym z beneficjentów całego zamieszania związanego z nową polityką prywatności WhatsAppa został także Signal. 
+Komunikator uważany jest za jedną z najkorzystniejszych platform pod względem zbierania danych o użytkownikach i 
+coraz szersze grono internautów ma okazję się o tym przekonać. Twórcy aplikacji pochwalili się, że w ujęciu tygodniowym 
+zanotowali 4200% wzrostu liczby zainteresowanych nim osób oraz ponad 50 milionami pobrań na Google Play.
+
+DuckDuckGo rośnie w siłę. Ponad 100 milionów wyszukiwań na dobę
+Podobny trend można zauważyć również w świecie wyszukiwarek. 
+Chociaż ciężko mówić w tym przypadku o zdeklasowaniu Google’a, to warto zwrócić uwagę, 
+że alternatywa dla technologicznego giganta ma się dobrze. Stawiający na prywatność użytkownika 
+DuckDuckGo pobił niedawno rekord popularności. W całej swojej dwunastoletniej historii wyszukiwarka 
+po raz pierwszy zanotowała więcej niż 100 milionów wyszukiwań na dobę. 
+
+I wszystko wskazuje, że nie jest to jednorazowy skok. Przez kilka lat da się zauważyć, że regularnie 
+pnie się w górę względem popularności. Jest to widoczne w szczególności na przestrzeni ostatnich trzech lat. 
+
+Ponadto, jak donosi BleepingComputer, DuckDuckGo odnotował wzrost średnich dziennych wyszukiwań o 62% w 2020 roku, 
+względem poprzedniego. Na chwilę obecną, w styczniu 2021 roku wyszukiwarka 
+otrzymuje średnio 90 milionów zapytań dziennie.
+
+DuckDuckGo to wyszukiwarka, która buduje swój indeks wyszukiwania przy użyciu własnego robota DuckDuckBot, 
+indeksowania Wikipedii i za pośrednictwem partnerów, takich jak Bing. To, co wyróżnia ją na tle konkurencji to fakt, 
+że nie śledzi osób z niej korzystających w celu tworzenia profilu użytkownika, ani udostępniania jakichkolwiek danych osobowych 
+lub identyfikacyjnych firmom zewnętrznym. Dodatkowo firma nie śledzi historii szukanych haseł.
+
+Czym wyszukiwarka zasłużyła sobie na taką popularność? Wszystko wskazuje na to, że wśród internautów rośnie świadomość tego, 
+co dzieje się z ich danymi w sieci. Użytkownicy coraz częściej zwracają uwagę na to, jak bardzo ich dane są wykorzystywane przez niektóre firmy, 
+przez co przychylniejszym okiem patrzą na wszelkiego rodzaju alternatywy. Wpływ na mogły mieć także ostatnie zmiany w polityce prywatności WhatsAppa.
+
+– Wydaje się, że niedawne ogłoszenie polityki prywatności Facebook/WhatsApp miało pewien wpływ na zwiększenie liczby wyszukiwań, 
+podobnie jak skłoniło ludzi do korzystania z alternatywnych komunikatorów, takich jak Signal. Widzieliśmy to już wcześniej. 
+Kiedy pojawia się poważny problem prywatności, notujemy wzrost korzystania z naszej wyszukiwarki – wyjaśnił DuckDuckGo.
+
+
+
